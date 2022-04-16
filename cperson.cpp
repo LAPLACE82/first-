@@ -11,3 +11,4 @@ class Cperson
 		static Cperson * ps;
 		static pthread_mutex_t lock;
 }
+Cperson *p1 = NULL;
